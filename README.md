@@ -1,24 +1,3 @@
-Universita degli Studi di Messina`
-
-```
-Dipartimento di Ingegneria
-Corso di Laurea magistrale in Ingegneria Elettronica per
-l’Industria
-```
-Sistema di misura delle prestazioni di
-cuffie commerciali con ANC
-
-### Studenti:
-
-### Aldo Fonseca
-
-### Marco Gitto
-
-### Vincenzo Bucaria
-
-### ANNO ACCADEMICO 2023/
-
-
 
 ## Indice
 
