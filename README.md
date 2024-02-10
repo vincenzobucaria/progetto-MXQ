@@ -1,2 +1,2 @@
-[Some title here](relazione.pdf)
+[Relazione](relazione.pdf)
 
